@@ -26,7 +26,7 @@ import requests
 from PIL import Image
 
 EXTRACT DATA
-   We clon the data from Phonepe Github repositary by using python libraries
+   We clone the data from Phonepe Github repositary by using python libraries
 
 PROCESS
   1. We process the colned datas by using python codes and convert that datas into DataFrame format.
